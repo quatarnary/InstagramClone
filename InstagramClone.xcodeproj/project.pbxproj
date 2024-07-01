@@ -11,6 +11,7 @@
 		68E2086A2C32FD8400196D77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68E208692C32FD8400196D77 /* ContentView.swift */; };
 		68E2086C2C32FD8500196D77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68E2086B2C32FD8500196D77 /* Assets.xcassets */; };
 		68E2086F2C32FD8500196D77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68E2086E2C32FD8500196D77 /* Preview Assets.xcassets */; };
+		68E208762C3300F900196D77 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 68E208752C3300F900196D77 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		68E208692C32FD8400196D77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		68E2086B2C32FD8500196D77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		68E2086E2C32FD8500196D77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		68E208752C3300F900196D77 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		68E2085B2C32FD8400196D77 = {
 			isa = PBXGroup;
 			children = (
+				68E208752C3300F900196D77 /* .gitignore */,
 				68E208662C32FD8400196D77 /* InstagramClone */,
 				68E208652C32FD8400196D77 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68E2086F2C32FD8500196D77 /* Preview Assets.xcassets in Resources */,
+				68E208762C3300F900196D77 /* .gitignore in Resources */,
 				68E2086C2C32FD8500196D77 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
